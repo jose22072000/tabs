@@ -40,3 +40,8 @@ This project demonstrates:
 ## Usage
 
 Simply open the `index.html` file in a web browser to see the tabs in action. Click on different tab headers to switch between content sections.
+
+
+## URL PROJECT
+
+https://roadmap.sh/projects/simple-tabs
